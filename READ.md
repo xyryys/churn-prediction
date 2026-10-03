@@ -1,4 +1,4 @@
-# churn-prediction
+# Churn Prediction
 
 churn-prediction/
 ├── data/
